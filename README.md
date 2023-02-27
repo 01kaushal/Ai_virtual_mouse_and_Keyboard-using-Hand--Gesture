@@ -5,21 +5,36 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 
 
 ## feature of Virtual Mouse
+
 Neutral Gesture
+
 Move Cursor
+
 Left Click
+
 Right Click
+
 Double Click
+
 Scrolling
+
 Drag and Drop
+
 Multiple Item Selection
+
 Volume Control
+
 Brightness Control
 
 ## features of Virtual Keyboard
 Enter
+
 Back space 
+
 Space
+
 Back
+
 All alphabet
+
 Number
