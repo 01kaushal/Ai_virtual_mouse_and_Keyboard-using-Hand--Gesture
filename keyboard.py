@@ -10,9 +10,10 @@ cap.set(3, 1280)
 cap.set(4, 720)
 
 detector = HandDetector(detectionCon=0.8)
-keys = [["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
-        ["A", "S", "D", "F", "G", "H", "J", "K", "L", ";"],
-        ["Z", "X", "C", "V", "B", "N", "M", ",", ".", "/"]]
+keys = [["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P","6","7","8"],
+        ["A", "S", "D", "F", "G", "H", "J", "K", "L", ";","3","4","5"],
+        ["Z", "X", "C", "V", "B", "N", "M", ",", ".", "/","0","1","2"],
+         [<--,"enter"," "]]
 finalText = ""
 
 keyboard = Controller()
